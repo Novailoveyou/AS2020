@@ -13,4 +13,4 @@
 
 ### Вариант №2
 
-Перейти по ссылке в ключе homepage в package.json или по https://novailoveyou.github.io/as2020/
+Перейти по ссылке в ключе homepage в package.json или по https://novailoveyou.github.io/AS2020/
